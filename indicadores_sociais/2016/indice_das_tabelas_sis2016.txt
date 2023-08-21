@@ -1,0 +1,274 @@
+Aspectos Demográficos
+
+Tabela 1.1 - População residente, distribuição percentual da população residente, por sexo, razão de sexo e taxa de urbanização, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 1.2 - Distribuição percentual da população residente, por grupos de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 1.3 - Distribuição percentual da população residente, por cor ou raça, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 1.4 - Razão de dependência, total, de jovens e de idosos, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 1.5 - Taxa de fecundidade total, taxa de fecundidade específica por grupo etário e participação percentual da taxa de fecundidade por grupo etário na fecundidade total, segundo as Grandes Regiões e as Unidades da Federação
+
+Tabela 1.6 - Distribuição percentual das mulheres de 15 a 49 anos de idade, por cor ou raça, com indicação de presença de filhos nascidos vivos e indicação do coeficiente de variação, segundo as Grandes Regiões e os grupos de idade
+
+Tabela 1.7 - Distribuição percentual das mulheres de 15 a 49 anos de idade, por grupos de anos de estudo, com indicação de presença de filhos nascidos vivos e indicação do coeficiente de variação, segundo as Grandes Regiões e os grupos de idade
+
+Tabela 1.8 - Taxa de mortalidade infantil, esperança de vida ao nascer, probabilidade de morte entre os 15 e os 29 anos de idade, probabilidade de morte entre os 15 e os 59 anos de idade e esperança de vida aos 60 anos de idade, segundo as Grandes Regiões e as Unidades da Federação
+
+Tabela 1.9 - Distribuição percentual da população residente, por Grandes Regiões de residência atual, com indicação do coeficiente de variação, segundo o lugar de nascimento
+
+Tabela 1.10 - Distribuição percentual da população residente, por naturalidade na Unidade da Federação, com indicação do coeficiente de variação, segundo as Unidades da Federação de residência atual
+
+Tabela 1.11 - Proporção das mulheres de 15 a 19 anos de idade, por indicação de presença de filho nascido vivo, com indicação do coeficiente de variação, segundo características selecionadas - Brasil
+
+Tabela 1.12 - Distribuição percentual da população residente, por cor ou raça, com indicação do coeficiente de variação, segundo o sexo e os grupos de idade
+
+Tabela 1.13 - Distribuição percentual das pessoas de 15 anos ou mais de idade, por estado conjugal e natureza da união conjugal, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 1.14 - Distribuição percentual das pessoas de 15 anos ou mais de idade, por estado conjugal e natureza da união conjugal, com indicação do coeficiente de variação, segundo o sexo e os grupos de idade
+
+
+
+Famílias
+
+Tabela 2.1 - Arranjos residentes em domicílios particulares, e respectiva distribuição percentual por tipo de arranjo e de núcleo familiar, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.2 - Distribuição percentual dos arranjos residentes em domicílios  particulares, por tipo de arranjo e sexo da pessoa de referência, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.3 - Distribuição percentual dos arranjos unipessoais residentes em domicílios particulares, por grupos de idade da pessoa de referência, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 2.4 - Distribuição percentual dos arranjos com filhos residentes em domicílios particulares, por tipo de núcleo familiar e sexo da pessoa de referência, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.5 - Distribuição percentual dos arranjos unipessoais e dos arranjos com parentesco sem filhos residentes em domicílios particulares, por tipo de arranjo, tipo de núcleo familiar e sexo da pessoa de referência, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.6 - Distribuição percentual dos arranjos formados por casal com filhos residentes em domicílios particulares, por sexo da pessoa de referência e grupos de idade dos filhos, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.7 - Distribuição percentual dos arranjos formados por pessoa de referência, sem cônjuge e com filhos residentes em domicílios particulares, por sexo da pessoa de referência e grupos de idade dos filhos, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.8 - Distribuição percentual dos arranjos residentes em domicílios particulares, por rendimento familiar per capita, com indicação do coeficiente de variação, segundo os tipos de arranjos e o sexo da pessoa de referência
+
+Tabela 2.9 - Domicílios particulares e respectiva distribuição percentual por número de arranjos residentes, arranjos residentes em domicílios particulares e respectiva distribuição percentual por existência e tipo de arranjo convivente, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.10 - Nível de ocupação das pessoas de 16 anos ou mais de idade, nos arranjos com parentesco residentes em domicílios particulares, por sexo da pessoa de referência e condição na família, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.11 - Distribuição percentual dos arranjos formados por casal residentes em domicílios particulares, com pessoa de referência e cônjuge ocupados, com rendimento positivo do trabalho, por sexo da pessoa de referência e razão entre o rendimento do cônjuge e o rendimento da pessoa de referência do arranjo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 2.12 - Distribuição percentual dos arranjos formados por casal residentes em domicílios particulares e por casal com pessoa de referência e cônjuge com rendimentos e mulher sem filhos nascidos vivos, sem presença de outros parentes ou agregados residentes no domicílio, por grupos de idade da pessoa de referência da família, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 2.13 - Proporção das pessoas de 25 a 34 anos de idade residentes em domicílios particulares, por condição na família, com indicação do coeficiente de variação, segundo características selecionadas
+
+Tabela 2.14 - Arranjos com parentesco, residentes em domicílios particulares, e respectiva distribuição percentual por indicação de presença de filho na família e quantidade de filhos na família, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.15 - Arranjos com parentesco com filho, residentes em domicílios particulares, por tipo de núcleo familiar e respectiva distribuição percentual por quantidade de filhos na família, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.16 - Arranjos com parentesco, residentes em domicílios particulares, e respectiva distribuição percentual por indicação de presença de filhos e quantidade de filhos de 0 a 17 anos de idade na família, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.17 - Arranjos com parentesco, residentes em domicílios particulares, e respectiva distribuição percentual por indicação de presença de filho na família e idade do filho mais novo na família, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 2.18 - Arranjos residentes em domicílios particulares, e respectiva distribuição percentual por rendimento familiar per capita, com indicação do coeficiente de variação, segundo a indicação da presença e a quantidade de pessoas na família em grupos etários específicos
+
+Tabela 2.19 - Distribuição percentual dos arranjos residentes em domicílios particulares por tipo de arranjo e de núcleo familiar, com indicação do coeficiente de variação, segundo a indicação da presença de grupos etários
+
+Tabela 2.20 - Pessoas residentes em domicílios particulares, e respectiva distribuição percentual por tipo de arranjo e de núcleo familiar, com indicação do coeficiente de variação, segundo os grupos etários e a condição na família - Brasil
+
+Tabela 2.21 - Número médio de pessoas nas famílias residentes em domicílios particulares, por tipo de arranjo e de núcleo familiar, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+
+
+Grupos Sociodemográficos
+
+Tabela 3.1 - Proporção de crianças, adolescentes e jovens de 0 a 29 anos de idade, por grupos de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.2 - Proporção de arranjos residentes em domicílios particulares, com pelo menos uma criança, adolescente ou jovem de 0 a 29 anos de idade, por grupos de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.3 - Proporção de crianças e adolescentes de 0 a 14 anos de idade residentes em domicílios particulares permanentes domicílios particulares permanentes sem acesso a algum serviço de saneamento, por tipo de serviço, com indicação do coeficiente de variação, segundo as Grandes Regiões e as Unidades da Federação
+
+Tabela 3.4 - Distribuição percentual da população residente por rendimento domiciliar per capita, com indicação do coeficiente de variação
+
+Tabela 3.5 - Distribuição percentual da população residente, por situação de segurança alimentar existente no domicílio e tipo de insegurança alimentar, segundo os grupos de idade, sexo, a cor ou raça, a situação do domicílio e as classes de rendimento mensal domiciliar per capita
+
+Tabela 3.6 - Nível de ocupação das crianças e adolescentes de 5 a 13 anos de idade, por grupos de idade, com indicação do coeficiente de variação, segundo características selecionadas
+
+Tabela 3.7 - Distribuição percentual de jovens de 15 a 29 anos de idade, por tipo de atividade na semana de referência, e proporção de jovens que não estudam, não trabalham e não procuram emprego, por grupos de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.8 - Distribuição percentual de jovens de 15 a 29 anos de idade, por tipo de atividade na semana de referência, e proporção de jovens que não estudam, não trabalham e não procuram emprego, por grupos de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.9 - Proporção de jovens de 15 a 29 anos de idade, por tipo de atividade na semana de referência, com indicação do coeficiente de variação, segundo características selecionadas
+
+Tabela 3.10 - Nível de ocupação de jovens de 15 a 29 anos de idade, por grupos de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.11 - Distribuição percentual de jovens de 15 a 29 anos de idade, ocupados na semana de referência, por classes de rendimento mensal de todos os trabalhos, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.12 - Distribuição percentual de jovens de 15 a 29 anos de idade, ocupados na semana de referência, por classes de rendimento mensal de todos os trabalhos, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.13 - Distribuição percentual de jovens de 15 a 29 anos de idade, ocupados na semana de referência, por número de horas trabalhadas por semana no trabalho principal, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.14 - Distribuição percentual de jovens de 15 a 29 anos de idade, ocupados na semana de referência, por número de horas trabalhadas por semana no trabalho principal, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.15 - Proporção de crianças, adolescentes e jovens de 10 a 29 anos de idade que cuidavam de afazeres domésticos e número médio de horas dedicadas aos afazeres domésticos na semana de referência, por grupos de idade e sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.16 - Proporção de pessoas de 18 anos ou mais de idade que sofreram alguma violência ou agressão, por grupo de idade, com indicação do coeficiente de variação, segundo cor ou raça, as Grandes Regiões, as Unidades da Federação e a situação do domicílio
+
+Tabela 3.17 - Percentual de escolares com idade de 15 a 17 anos que sofreram agressão física alguma vez nos 12 meses anteriores à pesquisa, por sexo e dependência administrativa da escola, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 3.18 - Proporção de pessoas de 60 anos ou mais de idade, por grupos de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 3.19 - Distribuição percentual das pessoas de 60 anos ou mais de idade, residentes em domicílios particulares, por condição no domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 3.20 - Pessoas de 60 anos ou mais de idade com indicação da média de anos de estudo e distribuição percentual, por grupos de anos de estudo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 3.21 - Distribuição percentual das pessoas de 60 anos ou mais de idade em aposentados e/ou pensionistas, por sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 3.22 - Nível de ocupação das pessoas de 60, 65 e 70 anos ou mais de idade, na semana de referência, por sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 3.23 - Proporção das pessoas de 60, 65 e 70 anos ou mais de idade, aposentadas e ocupadas na semana de referência, por sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 3.24 - Média de horas habitualmente trabalhadas em todos os trabalhos das pessoas de 60, 65 e 70 anos ou mais de idade, ocupadas na semana de referência, por sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 3.25 - Distribuição percentual dos rendimentos das pessoas de 60 e 65 anos ou mais de idade, por fonte dos rendimentos, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 3.26 - Proporção de pessoas de 60 anos ou mais de idade residentes em domicílios particulares, por condição de ocupação e de atividade, com indicação do coeficiente de variação, segundo características selecionadas - Brasil
+
+Tabela 3.27 - Proporção de pessoas de 15 anos ou mais de idade ocupadas, por grupos de idade e sexo, com indicação do coeficiente de variação, segundo características selecionadas
+
+Tabela 3.28 - Percentual de pessoas que se internaram em hospitais por 24 horas ou mais nos doze meses anteriores à pesquisa, com coeficiente de variação, segundo o grupo de idade (0-14, 15-29, 30 a 59 e 60 anos ou mais), por situação do domicílio e Grandes Regiões
+
+Tabela 3.29 - Percentual de pessoas que procuraram atendimento de saúde nas duas últimas semanas anteriores à data da pesquisa, com coeficiente de variação, segundo o grupo de idade (0-14, 15-29, 30 a 59 e 60 anos ou mais), por situação do domicílio e Grandes Regiões
+
+Tabela 3.30 - Proporção de pessoas de 18 anos ou mais de idade que já se sentiram discriminadas no serviço de saúde, total, percentual e coeficiente de variação, por condição em relação à força de trabalho na semana de referência ou situação do domicílio segundo as Grandes Regiões, as Unidades da Federação e a situação do domicílio
+
+Tabela 3.31 - Percentual de pessoas que procuraram atendimento de saúde nas duas últimas semanas anteriores à data da pesquisa e conseguiram atendimento na primeira vez que procuraram, total, percentual e coeficiente de variação, por condição em relação à força de trabalho na semana de referência e situação do domicílio, segundo características selecionadas
+
+Tabela 3.32 - Percentual de pessoas que conseguiram obter todos os medicamentos receitados no último atendimento de saúde, total, percentual e coeficiente de variação, por condição em relação à força de trabalho na semana de referência e situação do domicílio, segundo características selecionadas
+
+
+
+Educação
+
+Tabela 4.1 - Taxa de frequência bruta a estabelecimento de ensino da população residente, por grupos de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 4.2 - Taxa de frequência líquida a estabelecimento de ensino da população residente de 6 a 24 anos de idade, por grupos de idade e nível de ensino, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 4.3 - Taxa de frequência líquida a estabelecimento de ensino da população residente de 6 a 24 anos de idade, por grupos de idade, nível de ensino e cor ou raça, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 4.4 - Taxa de frequência líquida a estabelecimento de ensino da população residente de 6 a 24 anos de idade, por grupos de idade, nível de ensino e sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 4.5 - Distribuição percentual das pessoas que frequentam estabelecimento de ensino, por nível e rede de ensino frequentado, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 4.6 - Estudantes da rede pública e da rede particular no ensino infantil, fundamental, médio e superior, total e respectiva distribuição percentual, com indicação do coeficiente de variação, segundo os quintos de rendimento mensal domiciliar per capita
+
+Tabela 4.7 - Proporção das crianças de 4 e 5 anos de idade que frequentam instituição de ensino, por quintos de rendimento mensal domiciliar per capita nacional, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 4.8 - Proporção de estudantes de 15 a 17 anos de idade com distorção idade-série, com indicação do coeficiente de variação, segundo algumas características selecionadas
+
+Tabela 4.9 - Proporção de pessoas de 15 a 17 anos de idade que não concluíram o ensino fundamental dentre os que não frequentam escola, por quintos de rendimento mensal domiciliar per capita nacional, segundo as Grandes Regiões
+
+Tabela 4.10 - Estudantes de 18 a 24 anos de idade, total e respectiva distribuição percentual, por nível de ensino frequentado, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 4.11 - Estudantes de 18 a 24 anos de idade, total e respectiva distribuição percentual, por nível de ensino frequentado e cor ou raça, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 4.12 - Proporção de pessoas de 18 a 24 anos de idade, com menos de 11 anos de estudo e que não frequentam instituição de ensino, por quintos de rendimento mensal domiciliar per capita nacional, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 4.13 - Média de anos de estudo das pessoas de 25 anos ou mais de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões e algumas características selecionadas
+
+Tabela 4.14 - Nível de ensino das pessoas de 25 anos ou mais de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões e algumas características selecionadas
+
+Tabela 4.15 - Taxa de analfabetismo das pessoas de 15 anos ou mais de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões e algumas características selecionadas
+
+Tabela 4.16 - Distribuição percentual da população analfabeta por grupos de idade, com indicação do coeficiente de variação, segundo os quintos de rendimento mensal domiciliar per capita nacional
+
+
+
+Trabalho
+
+Tabela 5.1 - Indicadores estruturais do mercado de trabalho das pessoas de 16 anos ou mais de idade, por sexo, com indicação do coeficiente de variação, segundo os grupos de idade
+
+Tabela 5.2 - Indicadores estruturais do mercado de trabalho das pessoas de 16 anos ou mais de idade, por sexo, com indicação do coeficiente de variação, segundo o nível de instrução
+
+Tabela 5.3 - Pessoas de 16 anos ou mais de idade, ocupadas na semana de referência, total e proporção em trabalhos formais, por sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 5.4 - Pessoas de 16 anos ou mais de idade, ocupadas na semana de referência, total e respectiva distribuição percentual, por sexo e posição na ocupação, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 5.5 - Taxa de desocupação das pessoas de 16 anos ou mais de idade, por sexo e grupos de idade, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 5.6 - Proporção de pessoas de 16 anos ou mais de idade empregados sem carteira de trabalho assinada, trabalhadores domésticos sem carteira de trabalho assinada e trabalhadores por conta própria que contribuem para a previdência social, por sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 5.7 - Empregadas domésticas de 16 anos ou mais de idade, por condição de contribuição previdenciária e grupos de horas trabalhadas, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 5.8 - Proporção de pessoas de 16 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais e informais, por cor ou raça, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 5.9 - População ocupada de 16 anos ou mais ocupadas na semana de referência, por sexo, com indicação do coeficiente de variação, total e sua respectiva distribuição percentual por nível de instrução segundo os grupos de setores de atividade
+
+Tabela 5.10 - Rendimento médio do trabalho principal das pessoas de 16 anos ou mais de idade, ocupadas na semana de referência e em trabalhos formais e informais, por sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 5.11 - Rendimento-hora médio no trabalho principal das pessoas de 16 anos ou mais de idade ocupadas na semana de referência, por sexo e grupos de anos de estudo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 5.12 - População ocupada de 16 anos ou mais de idade com os menores rendimentos (40%), população ocupada com os maiores rendimentos (10%), total e rendimento médio, e razão entre os rendimentos médios (10/40), por sexo, com indicação do  coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 5.13 - Média de horas semanais trabalhadas no trabalho principal, média de horas gastas em afazeres domésticos e jornada total das pessoas de 16 anos ou mais de idade ocupadas na semana de referência, por sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 5.14 - População ocupada de 16 anos ou mais de idade, por sexo e grupos de horas trabalhadas, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 5.15 - Proporção de pessoas de 25 anos ou mais de idade ocupadas na semana de referência, em cargos de direção ou gerência, e rendimento médio do trabalho principal, por sexo, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+
+
+Padrão de Vida e Distribuição de Renda
+
+Tabela 6.1 - Arranjos domiciliares residentes em domicílios particulares, total e respectiva distribuição percentual, por classes de rendimento mensal domiciliar per capita, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 6.2 - Pessoas residentes em domicílios particulares, total e respectiva distribuição percentual, por classes de rendimento mensal domiciliar per capita, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 6.3 - Índice de Gini da distribuição do rendimento mensal das pessoas de 15 anos ou mais de idade, com rendimento, segundo as Grandes Regiões e as Unidades da Federação
+
+Tabela 6.4 - Distribuição percentual dos rendimentos dos arranjos domiciliares residentes em domicílios particulares, por classes de rendimento domiciliar per capita e origem dos rendimentos, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 6.5 - Distribuição percentual do total do rendimento domiciliar per capita dos arranjos residentes em domicílios particulares, por décimos do rendimento domiciliar per capita, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 6.6 - Rendimento mensal domiciliar per capita, médio e mediano, dos arranjos residentes em domicílios particulares, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 6.7 - Distribuição percentual da população de 10 anos ou mais de idade, entre os 10% com menores rendimentos e o 1% com maiores rendimentos mensais domiciliares per capita, por cor ou raça, com indicação do coeficiente de variação, segundo as Grandes Regiões
+
+Tabela 6.8 - Distribuição percentual da população residente em domicílios particulares, por cor ou raça, segundo as Grandes Regiões e os décimos de rendimento mensal domiciliar per capita
+
+Tabela 6.9 - Distribuição dos rendimentos de todas as fontes das pessoas de 10 anos ou mais de idade com rendimentos, por classes de rendimento, e Índice de Palma, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 6.10 - Pessoas de 18 anos ou mais de idade residentes em domicílios particulares, total e proporção concernida por carências, segundo sexo, cor ou raça, grupos de idade, classes de rendimento mensal domiciliar per capita e Grandes Regiões
+
+Tabela 6.11 - Pessoas de 18 anos ou mais de idade residentes em domicílios particulares, total e proporção concernida por condições de saúde, segundo sexo, cor ou raça, grupos de idade, classes de rendimento mensal domiciliar per capita, acesso à educação e acesso a serviços básicos no domicílio e Grandes Regiões
+
+Tabela 6.12 - Pessoas de 18 anos ou mais de idade residentes em domicílios particulares, total e proporção concernida por carências e condições de saúde, segundo as Grandes Regiões
+
+
+
+Domicílios
+
+Tabela 7.1 - Domicílios particulares, pessoas e número médio de pessoas, por domicílio e dormitório, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.2 - Proporção de domicílios particulares permanentes com adensamento excessivo, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.3 - Proporção de domicílios particulares permanentes com banheiro ou sanitário de uso exclusivo dos moradores, por situação do domicílio e cor ou raça do responsável pelo domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.4 – Proporção de domicílios particulares permanentes abastecidos por rede geral de água, por situação do domicílio e cor ou raça do responsável pelo domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.5 – Proporção de domicílios particulares permanentes com esgotamento por rede coletora de esgoto ou pluvial, por situação do domicílio e cor ou raça do responsável pelo domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.6 – Proporção de domicílios particulares permanentes atendidos por serviço de coleta de lixo (direta ou indireta), por situação do domicílio e cor ou raça do responsável pelo domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.7 – Proporção de domicílios particulares permanentes abastecidos por rede geral de água, com esgotamento por rede coletora de esgoto ou pluvial e atendidos por serviço de coleta de lixo (direta ou indireta), por situação do domicílio e cor ou raça do responsável pelo domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.8 - Proporção de domicílios particulares permanentes rurais com iluminação elétrica, por cor ou raça do responsável pelo domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação  e as Regiões Metropolitanas
+
+Tabela 7.9 - Distribuição de domicílios particulares permanentes por situação do domicílio, cor ou raça do responsável e condição de ocupação, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.10 - Proporção de domicílios particulares permanentes em situação de déficit excessivo com aluguel, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.11 - Proporção de domicílios particulares permanentes com posse de máquina de lavar roupa, por situação do domicílio e cor ou raça do responsável do domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.12 - Proporção de domicílios particulares permanentes com posse de telefone (fixo ou celular), por situação do domicílio e cor ou raça do responsável pelo domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.13 - Proporção de domicílios particulares permanentes com posse de Televisão (em preto e branco ou a cores), por situação do domicílio e cor ou raça do responsável pelo domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
+Tabela 7.14 - Proporção de domicílios particulares permanentes com microcomputador e proporção de domicílios com microcomputador com acesso a internet, por situação do domicílio e cor ou raça do responsável pelo domicílio, com indicação do coeficiente de variação, segundo as Grandes Regiões, as Unidades da Federação e as Regiões Metropolitanas
+
